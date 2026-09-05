@@ -6,7 +6,6 @@
 #Input:             int totalItems, str foodItems, float foodItemsCost,
 #                   str continuePrompt, str tip, str amountTip
 #Output:            tipAmountCalculated, totalCost
-#Sources:           Lab 3 Assignment Instruction, Module 3 Lessons
 #*****************************************************************************
 
 #variables for this program
