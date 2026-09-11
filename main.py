@@ -6,7 +6,7 @@
 #Output:            name, year, gender, count
 #*****************************************************************************
 
-from lab5Name import Name
+from lab4Name import Name
 
 def main():
     inputval = True
